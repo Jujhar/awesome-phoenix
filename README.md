@@ -7,6 +7,7 @@ Collection of awesome open-source apps made with [Phoenix Framework](http://phoe
 ## Dope
 
 * [Hashrocket Today I Learned](https://github.com/hashrocket/tilex) - A Phoenix project by Hashrocket featuring small posts about technology.
+* [https://thetakeout.com/c/today-i-learned] Cooking 😂 [Joke]
 * [Code Corps](https://github.com/code-corps/code-corps-api) - Elixir/Phoenix API for [Code Corps](https://www.codecorps.org).
 * [ElixirStatus](https://github.com/rrrene/elixirstatus-web) - Community site for Elixir project/blog post/version updates.
 * [changelog.com ](https://github.com/thechangelog/changelog.com) - CMS behind [changelog.com](https://changelog.com/).
